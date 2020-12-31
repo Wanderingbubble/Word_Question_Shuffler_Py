@@ -1,0 +1,2 @@
+Text used from https://docs.python.org/3/faq/general.html
+© Copyright 2001-2020, Python Software Foundation
